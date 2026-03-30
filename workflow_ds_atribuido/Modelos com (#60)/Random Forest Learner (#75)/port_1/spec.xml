@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <config xmlns="http://www.knime.org/2008/09/XMLConfig" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.knime.org/2008/09/XMLConfig http://www.knime.org/XMLConfig_2008_09.xsd" key="spec.xml">
     <entry key="spec_name" type="xstring" value="default"/>
-    <entry key="number_columns" type="xint" value="35"/>
+    <entry key="number_columns" type="xint" value="34"/>
     <config key="column_spec_0">
         <entry key="column_name" type="xstring" value="Very High Voltage (kWh)"/>
         <config key="element_names">
@@ -548,31 +548,6 @@
         <config key="meta_data"/>
     </config>
     <config key="column_spec_20">
-        <entry key="column_name" type="xstring" value="year"/>
-        <config key="element_names">
-            <entry key="array-size" type="xint" value="0"/>
-        </config>
-        <config key="column_type">
-            <entry key="cell_class" type="xstring" value="org.knime.core.data.def.IntCell"/>
-        </config>
-        <config key="column_domain">
-            <config key="lower_bound">
-                <entry key="datacell" type="xstring" value="org.knime.core.data.def.IntCell"/>
-                <config key="org.knime.core.data.def.IntCell">
-                    <entry key="IntCell" type="xint" value="2024"/>
-                </config>
-            </config>
-            <config key="upper_bound">
-                <entry key="datacell" type="xstring" value="org.knime.core.data.def.IntCell"/>
-                <config key="org.knime.core.data.def.IntCell">
-                    <entry key="IntCell" type="xint" value="2028"/>
-                </config>
-            </config>
-        </config>
-        <config key="column_properties"/>
-        <config key="meta_data"/>
-    </config>
-    <config key="column_spec_21">
         <entry key="column_name" type="xstring" value="month"/>
         <config key="element_names">
             <entry key="array-size" type="xint" value="0"/>
@@ -597,7 +572,7 @@
         <config key="column_properties"/>
         <config key="meta_data"/>
     </config>
-    <config key="column_spec_22">
+    <config key="column_spec_21">
         <entry key="column_name" type="xstring" value="day_of_year"/>
         <config key="element_names">
             <entry key="array-size" type="xint" value="0"/>
@@ -622,7 +597,7 @@
         <config key="column_properties"/>
         <config key="meta_data"/>
     </config>
-    <config key="column_spec_23">
+    <config key="column_spec_22">
         <entry key="column_name" type="xstring" value="day_of_week"/>
         <config key="element_names">
             <entry key="array-size" type="xint" value="0"/>
@@ -647,7 +622,7 @@
         <config key="column_properties"/>
         <config key="meta_data"/>
     </config>
-    <config key="column_spec_24">
+    <config key="column_spec_23">
         <entry key="column_name" type="xstring" value="hour"/>
         <config key="element_names">
             <entry key="array-size" type="xint" value="0"/>
@@ -672,7 +647,7 @@
         <config key="column_properties"/>
         <config key="meta_data"/>
     </config>
-    <config key="column_spec_25">
+    <config key="column_spec_24">
         <entry key="column_name" type="xstring" value="estacao_ano"/>
         <config key="element_names">
             <entry key="array-size" type="xint" value="0"/>
@@ -712,7 +687,7 @@
         <config key="column_properties"/>
         <config key="meta_data"/>
     </config>
-    <config key="column_spec_26">
+    <config key="column_spec_25">
         <entry key="column_name" type="xstring" value="weekend"/>
         <config key="element_names">
             <entry key="array-size" type="xint" value="0"/>
@@ -752,7 +727,7 @@
         <config key="column_properties"/>
         <config key="meta_data"/>
     </config>
-    <config key="column_spec_27">
+    <config key="column_spec_26">
         <entry key="column_name" type="xstring" value="P (Consumptions=Medium Consumption)"/>
         <config key="element_names">
             <entry key="array-size" type="xint" value="0"/>
@@ -777,7 +752,7 @@
         <config key="column_properties"/>
         <config key="meta_data"/>
     </config>
-    <config key="column_spec_28">
+    <config key="column_spec_27">
         <entry key="column_name" type="xstring" value="P (Consumptions=Low Consumption)"/>
         <config key="element_names">
             <entry key="array-size" type="xint" value="0"/>
@@ -802,7 +777,7 @@
         <config key="column_properties"/>
         <config key="meta_data"/>
     </config>
-    <config key="column_spec_29">
+    <config key="column_spec_28">
         <entry key="column_name" type="xstring" value="P (Consumptions=Medium-High Consumption)"/>
         <config key="element_names">
             <entry key="array-size" type="xint" value="0"/>
@@ -827,7 +802,7 @@
         <config key="column_properties"/>
         <config key="meta_data"/>
     </config>
-    <config key="column_spec_30">
+    <config key="column_spec_29">
         <entry key="column_name" type="xstring" value="P (Consumptions=Medium-Low Consumption)"/>
         <config key="element_names">
             <entry key="array-size" type="xint" value="0"/>
@@ -852,7 +827,7 @@
         <config key="column_properties"/>
         <config key="meta_data"/>
     </config>
-    <config key="column_spec_31">
+    <config key="column_spec_30">
         <entry key="column_name" type="xstring" value="P (Consumptions=High Consumption)"/>
         <config key="element_names">
             <entry key="array-size" type="xint" value="0"/>
@@ -877,7 +852,7 @@
         <config key="column_properties"/>
         <config key="meta_data"/>
     </config>
-    <config key="column_spec_32">
+    <config key="column_spec_31">
         <entry key="column_name" type="xstring" value="Consumptions (Out-of-bag)"/>
         <config key="element_names">
             <entry key="array-size" type="xint" value="0"/>
@@ -923,7 +898,7 @@
         <config key="column_properties"/>
         <config key="meta_data"/>
     </config>
-    <config key="column_spec_33">
+    <config key="column_spec_32">
         <entry key="column_name" type="xstring" value="Consumptions (Out-of-bag) (Confidence)"/>
         <config key="element_names">
             <entry key="array-size" type="xint" value="0"/>
@@ -935,7 +910,7 @@
             <config key="lower_bound">
                 <entry key="datacell" type="xstring" value="org.knime.core.data.def.DoubleCell"/>
                 <config key="org.knime.core.data.def.DoubleCell">
-                    <entry key="DoubleCell" type="xdouble" value="0.3636363744735718"/>
+                    <entry key="DoubleCell" type="xdouble" value="0.38461539149284363"/>
                 </config>
             </config>
             <config key="upper_bound">
@@ -948,7 +923,7 @@
         <config key="column_properties"/>
         <config key="meta_data"/>
     </config>
-    <config key="column_spec_34">
+    <config key="column_spec_33">
         <entry key="column_name" type="xstring" value="model count"/>
         <config key="element_names">
             <entry key="array-size" type="xint" value="0"/>

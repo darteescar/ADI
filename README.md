@@ -8,6 +8,8 @@ Projeto de grupo realizado no âmbito da UC de Aprendizagem e Decisão Inteligen
 - [Tiago Figueiredo](https://github.com/tiagofigueiredo7)
 - [Inês Ribeiro](https://github.com/inesferribeiro)
 
+### Nota Final: ?? / 20 ⭐️
+
 ## Ficheiros relevantes
 - [Enunciado do projeto](enunciado.pdf)
 - [Relatório do projeto](relatorio.pdf)
@@ -24,6 +26,8 @@ Group project carried out within the scope of the Intelligent Learning and Decis
 - [Luís Soares](https://github.com/luis7788)
 - [Tiago Figueiredo](https://github.com/tiagofigueiredo7)
 - [Inês Ribeiro](https://github.com/inesferribeiro)
+
+### Final Mark: ?? / 20 ⭐️
 
 ## Relevant files
 - [Project specifications](enunciado.pdf)
